@@ -1,0 +1,19 @@
+{
+  "CHANGELOG.md": "ddc3560888aeb79b11ec18d325b85da5",
+  "LICENSE": "3b83ef96387f14655fc854ddc3c6bd57",
+  "NOTICE": "7cb05424a94e1a0a431e979362376f60",
+  "README.md": "8bbe02b0809f892d89d0668d62a597bf",
+  "data/defaults.yaml": "86519020a6db79fca05be56a26ddf167",
+  "data/plugin.yaml": "27b8c4d4407eb514c5fe799f044e636c",
+  "files/mcollective/agent/iptables.ddl": "9bba577923f61984a3b2ea00a53c1d65",
+  "files/mcollective/agent/iptables.json": "ea7f03275f397973b1dd9e99c2e244d6",
+  "files/mcollective/agent/iptables.rb": "97241bfe26c6a90043fd46061c76197a",
+  "files/mcollective/application/iptables.rb": "a0b85a7207ed1d4382ad74da618a151b",
+  "files/mcollective/util/iptables/ipv4.rb": "63513ace8cad9e5ae0eda5b79e8b169d",
+  "files/mcollective/util/iptables/ipv6.rb": "35e7feee977f129cc457c7a2423d4a02",
+  "files/mcollective/validator/ipaddress_validator.ddl": "9b44237f419a1ef66ea122c396a2c6c5",
+  "files/mcollective/validator/ipaddress_validator.rb": "66d9189cf81f0a341a0bd35c3f1cb842",
+  "hiera.yaml": "686844de205da23a5552c4a50a517929",
+  "manifests/init.pp": "c2074dfd5fc9f8c74838d6ac4a525684",
+  "metadata.json": "af5a6c703f38216a4d85fb64669ddec4"
+}
